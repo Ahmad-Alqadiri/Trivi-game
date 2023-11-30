@@ -1,0 +1,10 @@
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\bin\Debug\Trivia game.exe.config
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\bin\Debug\Trivia game.exe
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\bin\Debug\Trivia game.pdb
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia game.csproj.AssemblyReference.cache
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia_game.Form1.resources
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia_game.Properties.Resources.resources
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia game.csproj.GenerateResource.cache
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia game.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia game.exe
+C:\Users\Bruger\source\repos\Trivia game\Trivia game\obj\Debug\Trivia game.pdb
